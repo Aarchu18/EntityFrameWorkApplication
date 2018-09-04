@@ -104,6 +104,39 @@ namespace EntityFrameWorkConsoleApplication
 
         private  void StudentUpdate()
         {
+            using (StudentModel studentModel = new StudentModel())
+            {
+                
+                    Console.WriteLine("Enter Your StudentId:");
+                    int StudentId = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Enter Your First Name:");
+                    String StudentFirstName = Console.ReadLine();
+                    Console.WriteLine("Enter Your Last Name:");
+                    String StudentLastName = Console.ReadLine();
+                    Console.WriteLine("Enter Your Gender:");
+                    String StudentGender = Console.ReadLine();
+                    Console.Write("Enter Your Choice:");
+
+                    foreach (var data in studentModel.Courses)
+                    {
+                        Console.WriteLine(data.CourseName + " For " + data.CourseId);
+
+
+                    }
+                    int CourseId = Convert.ToInt32(Console.ReadLine());
+                    Student student = new Student()
+                    {
+                        StudentId = StudentId,
+                        StudentFirstName = StudentFirstName,
+                        StudentLastName = StudentLastName,
+                        StudentGender = StudentGender
+
+                    };
+
+                    studentModel.Students.Add(student);
+                    studentModel.SaveChanges();
+                
+            }
 
         }
         private void StudentDelete()

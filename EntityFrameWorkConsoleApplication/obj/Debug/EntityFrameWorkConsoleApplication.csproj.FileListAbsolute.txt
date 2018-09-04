@@ -1,0 +1,12 @@
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\obj\Debug\EntityFrameWorkConsoleApplication.csprojAssemblyReference.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\obj\Debug\EntityFrameWorkConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\bin\Debug\EntityFrameWorkConsoleApplication.exe.config
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\bin\Debug\EntityFrameWorkConsoleApplication.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\bin\Debug\EntityFrameWorkConsoleApplication.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\obj\Debug\EntityFrameWorkConsoleApplication.csproj.CopyComplete
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\obj\Debug\EntityFrameWorkConsoleApplication.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\EntityFrameWorkConsoleApplication\EntityFrameWorkConsoleApplication\obj\Debug\EntityFrameWorkConsoleApplication.pdb
